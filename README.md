@@ -1,13 +1,18 @@
-UNB - Universidade de Brasília
-Instituto de Ciências Exatas Departamento de Ciência da Computação
-Disciplina: Algoritmos e Estrutura de Dados (PPCA 2020.2)
-Professor: Edison Ishikawa
+###### UNB - Universidade de Brasília
+###### Instituto de Ciências Exatas 
+
+###### Departamento de Ciência da Computação
+
+###### Disciplina: Algoritmos e Estrutura de Dados (PPCA 2020.2)
+
+###### Professor: Edison Ishikawa
+
 
 Integrantes:
-    - Edmilson Cosme da Silva
-    - Fernanda Lopes de Lima
-    - Lucilene da Silva Leite
-    - Marcos Paulo Pereira da Silva
+- Edmilson Cosme da Silva
+- Fernanda Lopes de Lima
+- Lucilene da Silva Leite
+- Marcos Paulo Pereira da Silva
     
 # Projeto_VRP
 Repositório para entrega do trabalho da disciplina de AED do PPCA 2020.2
