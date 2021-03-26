@@ -41,8 +41,12 @@ Segue a Função Objetivo:
 
 ![funcao_objetivo_VRP](https://user-images.githubusercontent.com/79127526/112634457-6123e100-8e19-11eb-9a1e-a24d921fa2ec.png)
 
-Organização dos arquivos:
-    - Pastas:
-        -codigo - Contém o codigo dos algoritmos e do gerador de dataset;
-        -dataset- Contém os dataset utilizados;
-        -log_execucao - Contém os logs de execução.
+Organização dos arquivos: 
+
+    Pastas: 
+
+        - codigo - Contém o codigo dos algoritmos e do gerador de dataset;
+
+        - dataset- Contém os dataset utilizados;
+
+        - log_execucao - Contém os logs de execução.
