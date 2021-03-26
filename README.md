@@ -1,3 +1,10 @@
+UNB - Universidade de Brasília
+Instituto de Ciências Exatas Departamento de Ciência da Computação
+Disciplina: Algoritmos e Estrutura de Dados 
+Professor: Edison Ishikawa
+
+
+
 # Projeto_VRP
 Repositório para entrega do trabalho da disciplina de AED do PPCA 2020.2
 
