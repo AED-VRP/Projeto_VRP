@@ -18,4 +18,5 @@ Esta implementação busca implementar o VRP Classico, de forma que não estão 
 
 Segue a Função Objetivo:
 
-image.png
+![funcao_objetivo_VRP](https://user-images.githubusercontent.com/79127526/112634457-6123e100-8e19-11eb-9a1e-a24d921fa2ec.png)
+
