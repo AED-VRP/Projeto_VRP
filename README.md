@@ -1,14 +1,16 @@
 UNB - Universidade de Brasília
 Instituto de Ciências Exatas Departamento de Ciência da Computação
-Disciplina: Algoritmos e Estrutura de Dados 
+Disciplina: Algoritmos e Estrutura de Dados (PPCA 2020.2)
 Professor: Edison Ishikawa
 
-
-
+Integrantes:
+    - Edmilson Cosme da Silva
+    - Fernanda Lopes de Lima
+    - Lucilene da Silva Leite
+    - Marcos Paulo Pereira da Silva
+    
 # Projeto_VRP
 Repositório para entrega do trabalho da disciplina de AED do PPCA 2020.2
-
-
 
 ###### VRP - Vehicle routing problem
 
@@ -37,3 +39,8 @@ Segue a Função Objetivo:
 
 ![funcao_objetivo_VRP](https://user-images.githubusercontent.com/79127526/112634457-6123e100-8e19-11eb-9a1e-a24d921fa2ec.png)
 
+Organização dos arquivos:
+    - Pastas:
+        -codigo - Contém o codigo dos algoritmos e do gerador de dataset;
+        -dataset- Contém os dataset utilizados;
+        -log_execucao - Contém os logs de execução.
