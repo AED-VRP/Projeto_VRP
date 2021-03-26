@@ -1,10 +1,7 @@
 ###### UNB - Universidade de Brasília
 ###### Instituto de Ciências Exatas 
-
 ###### Departamento de Ciência da Computação
-
 ###### Disciplina: Algoritmos e Estrutura de Dados (PPCA 2020.2)
-
 ###### Professor: Edison Ishikawa
 
 
